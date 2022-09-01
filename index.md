@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+
 
 # Alexis Ogrinz's First CS193 Homework
+
+## Welcome to GitHub Pages
 
 ### Favorite Things About 193
 - It's run by students
